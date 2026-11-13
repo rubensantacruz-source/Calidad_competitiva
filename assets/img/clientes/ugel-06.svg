@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" role="img" aria-label="UGEL N° 06 logo">
+  <rect width="320" height="150" rx="18" fill="#eef9f1"/>
+  <path d="M60 34l44 20v36c0 19-14 35-32 42-18-7-32-23-32-42V54l20-20zm14 27v32l20 9 20-9V61l-20-9-20 9z" fill="#2aa86b"/>
+  <path d="M96 65h52v12H96zM96 83h52v12H96z" fill="#1c7a4d"/>
+  <text x="150" y="72" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#143d2b">UGEL</text>
+  <text x="150" y="99" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#143d2b">N° 06</text>
+</svg>

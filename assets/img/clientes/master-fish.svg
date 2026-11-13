@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" role="img" aria-label="Master Fish logo">
+  <defs>
+    <linearGradient id="fish-bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ecfeff"/>
+      <stop offset="100%" stop-color="#d8f7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="150" rx="18" fill="url(#fish-bg)"/>
+  <path d="M44 78c14-24 36-28 55-28 20 0 30 9 40 23-12 21-26 31-42 31-17 0-40-13-53-26zm82 0c6 0 14 10 26 18 9-5 16-13 17-17-8-13-18-20-31-20-12 0-20 6-30 18 10 7 13 12 18 19z" fill="#1ab5d8"/>
+  <circle cx="195" cy="75" r="4" fill="#0b5874"/>
+  <path d="M190 58c0-13 11-24 25-24 7 0 13 3 18 8l-14 19h-29zm2 35c0 13 11 24 25 24 7 0 13-3 18-8l-14-19h-29z" fill="#0d6f8c"/>
+  <text x="138" y="83" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#163b4e">MASTER</text>
+  <text x="138" y="110" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" fill="#195d77">FISH</text>
+</svg>

@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" role="img" aria-label="I.E. Nuestra Señora de Lourdes 2078 logo">
+  <defs>
+    <linearGradient id="bg-lourdes" x1="0" x2="1">
+      <stop offset="0%" stop-color="#eaf6ff"/>
+      <stop offset="100%" stop-color="#d8ebff"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="150" rx="18" fill="url(#bg-lourdes)"/>
+  <circle cx="62" cy="75" r="28" fill="#2b7ddd" opacity="0.14"/>
+  <path d="M62 42l9 16 16 5-10 15 3 18-18-9-18 9 3-18-10-15 16-5 9-16zm0 9l-5 10-10 3 7 10-2 12 10-5 10 5-2-12 7-10-10-3-5-10z" fill="#2b7ddd"/>
+  <path d="M90 50h26v58H90z" fill="#1a5ca8" opacity="0.9"/>
+  <path d="M90 50l13-18 13 18h-26z" fill="#1a5ca8"/>
+  <text x="136" y="68" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#163b60">I.E.</text>
+  <text x="136" y="92" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#163b60">Ntra. Señora</text>
+  <text x="136" y="116" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#3d6da3">de Lourdes 2078</text>
+</svg>

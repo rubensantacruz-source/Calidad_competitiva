@@ -1,0 +1,602 @@
+[
+  {
+    "keywords": "hola buenos dias buenas tardes buenas noches saludos hey",
+    "answer": "¡Hola! Bienvenido a Calidad Competitiva. ¿Buscas servicios, productos o información de contacto?"
+  },
+  {
+    "keywords": "que es calidad competitiva empresa sobre ustedes",
+    "answer": "Somos una empresa de soluciones tecnológicas, desarrollo de software, redes y soporte técnico."
+  },
+  {
+    "keywords": "que servicios ofrecen hacen",
+    "answer": "Ofrecemos desarrollo de software, diseño web, infraestructura de redes, soporte y mantenimiento, y automatización de Excel/KPI. Revisa la sección Servicios."
+  },
+  {
+    "keywords": "cual es su telefono numero llamar celular",
+    "answer": "Puedes comunicarte al 927 511 640."
+  },
+  {
+    "keywords": "correo email gmail escribir",
+    "answer": "Nuestro correo es soluciones.calidadcompetitiva@gmail.com."
+  },
+  {
+    "keywords": "donde estan ubicados ubicacion direccion",
+    "answer": "Atendemos en Chaclacayo, Ate y Chosica, Perú. Solicita la dirección o modalidad de atención por teléfono."
+  },
+  {
+    "keywords": "tienen whatsapp whats wsp",
+    "answer": "Puedes consultar por WhatsApp si el número 927 511 640 tiene el servicio habilitado. No podemos confirmarlo desde aquí."
+  },
+  {
+    "keywords": "horario atienden abierto sabado domingo",
+    "answer": "Para conocer horarios de atención actualizados, comunícate al 927 511 640."
+  },
+  {
+    "keywords": "quiero cotizacion presupuesto precio servicio costo",
+    "answer": "Para obtener una cotización, describe tu proyecto por correo o desde Contactos. El importe depende del alcance."
+  },
+  {
+    "keywords": "desarrollo software aplicacion programa sistema",
+    "answer": "Desarrollamos soluciones de software adaptadas a las necesidades de los clientes. Podemos revisar tu propuesta."
+  },
+  {
+    "keywords": "pagina web sitio web diseno web tienda online",
+    "answer": "Ofrecemos diseño y creación de páginas web. Cuéntanos qué necesitas y te orientamos."
+  },
+  {
+    "keywords": "redes internet wifi router cableado infraestructura",
+    "answer": "Disponemos de servicios relacionados con infraestructura y administración de redes."
+  },
+  {
+    "keywords": "soporte tecnico computadora pc reparacion mantenimiento",
+    "answer": "Podemos ayudarte con consultas de soporte y mantenimiento de computadoras."
+  },
+  {
+    "keywords": "virus malware computador infectado",
+    "answer": "Desconecta el equipo de redes sospechosas, evita introducir contraseñas y solicita una revisión técnica."
+  },
+  {
+    "keywords": "windows no enciende computadora no prende",
+    "answer": "Comprueba conexiones, alimentación y periféricos. Si continúa el problema, solicita diagnóstico técnico."
+  },
+  {
+    "keywords": "laptop lenta pc lenta rendimiento",
+    "answer": "Revisa espacio libre, programas de inicio, actualizaciones y posibles fallos de hardware. Ofrecemos orientación técnica."
+  },
+  {
+    "keywords": "impresora no imprime",
+    "answer": "Comprueba alimentación, conexión y cola de impresión. Si no funciona, consulta con soporte técnico."
+  },
+  {
+    "keywords": "pantalla azul error windows",
+    "answer": "Anota el código del error y cualquier cambio reciente; un técnico puede ayudarte a diagnosticarlo."
+  },
+  {
+    "keywords": "contrasena perdida cuenta no acceso",
+    "answer": "Usa los mecanismos oficiales de recuperación del servicio o equipo. Evita compartir contraseñas con terceros."
+  },
+  {
+    "keywords": "copia de seguridad backup datos",
+    "answer": "Recomendamos respaldos regulares en un disco externo o servicio fiable y verificar periódicamente que se restauren."
+  },
+  {
+    "keywords": "seguridad ciberseguridad datos",
+    "answer": "La protección de datos y la seguridad tecnológica forman parte de nuestros valores. Cuéntanos tus necesidades de infraestructura."
+  },
+  {
+    "keywords": "mouse raton precio",
+    "answer": "El mouse óptico ergonómico aparece en nuestro catálogo con precio de referencia S/ 29.00."
+  },
+  {
+    "keywords": "teclado usb precio",
+    "answer": "El teclado multimedia USB figura con precio de referencia S/ 39.00."
+  },
+  {
+    "keywords": "pad mouse alfombrilla precio",
+    "answer": "El pad mouse antideslizante figura con precio de referencia S/ 12.00."
+  },
+  {
+    "keywords": "parlantes altavoz precio",
+    "answer": "Los parlantes estéreo para PC figuran con precio de referencia S/ 35.00."
+  },
+  {
+    "keywords": "audifonos buds inalambricos earbuds tws",
+    "answer": "Consulta la sección Accesorios Tecnológicos Modernos para ver nuestros modelos de audífonos."
+  },
+  {
+    "keywords": "realidad virtual vr headset visor",
+    "answer": "Tenemos un visor VR incluido en la sección de accesorios tecnológicos modernos. Consulta su disponibilidad."
+  },
+  {
+    "keywords": "procesador amd cpu",
+    "answer": "Puedes ver un procesador AMD en la página de repuestos. Consulta disponibilidad y compatibilidad antes de comprar."
+  },
+  {
+    "keywords": "computadora desktop gabinete pc armada",
+    "answer": "En nuestra sección de repuestos se muestran equipos de escritorio. Consulta las especificaciones vigentes."
+  },
+  {
+    "keywords": "control joystick mando videojuegos",
+    "answer": "En Repuestos para PC aparece un control Wolverine V3 Pro. Consulta precio y disponibilidad."
+  },
+  {
+    "keywords": "devolucion garantia cambios",
+    "answer": "Para conocer las condiciones de garantía o devolución de un producto concreto, contacta directamente con la empresa."
+  },
+  {
+    "keywords": "metodos pago tarjeta transferencia efectivo yape plin",
+    "answer": "Consulta los medios de pago actualmente aceptados con la empresa antes de realizar una compra."
+  },
+  {
+    "keywords": "hacen envios delivery domicilio",
+    "answer": "Comunícate con la empresa para confirmar si hay entregas y sus costos en tu zona."
+  },
+  {
+    "keywords": "tienen tienda fisica local",
+    "answer": "Atendemos en zonas de Lima Este; confirma el punto y modalidad de atención con la empresa."
+  },
+  {
+    "keywords": "factura boleta comprobante",
+    "answer": "Pregunta al equipo por el comprobante correspondiente al servicio o producto solicitado."
+  },
+  {
+    "keywords": "tiempo demora entrega proyecto",
+    "answer": "El plazo depende de los requisitos del proyecto. Podemos preparar una estimación tras conocer el alcance."
+  },
+  {
+    "keywords": "automatizacion excel indicadores kpi power bi",
+    "answer": "Ofrecemos automatización de Excel y seguimiento de indicadores KPI. Cuéntanos qué proceso deseas mejorar."
+  },
+  {
+    "keywords": "mision empresa",
+    "answer": "Nuestra misión es impulsar empresas con tecnología innovadora y segura, optimizando sus procesos."
+  },
+  {
+    "keywords": "vision empresa",
+    "answer": "Nuestra visión es liderar en soluciones tecnológicas con innovación, confiabilidad y excelencia."
+  },
+  {
+    "keywords": "valores principios compromiso responsabilidad",
+    "answer": "Nuestros valores incluyen compromiso, pasión por la excelencia, responsabilidad y seguridad."
+  },
+  {
+    "keywords": "trabajadores equipo personal",
+    "answer": "La página Nuestros Trabajadores presenta los roles del equipo, incluidos gestión de bases de datos, diseño web y proyectos."
+  },
+  {
+    "keywords": "base datos sql database",
+    "answer": "Podemos escuchar tus necesidades de administración y gestión de datos."
+  },
+  {
+    "keywords": "quiero trabajar empleo practicas vacantes",
+    "answer": "Para consultar oportunidades profesionales, escribe directamente al correo oficial de la empresa."
+  },
+  {
+    "keywords": "estudiantes practicas profesionales",
+    "answer": "Las consultas sobre prácticas se pueden enviar al correo oficial de la empresa."
+  },
+  {
+    "keywords": "quiero reunirme cita reunion",
+    "answer": "Puedes solicitar una reunión contactando al teléfono o correo de Calidad Competitiva."
+  },
+  {
+    "keywords": "como contrato servicio",
+    "answer": "Describe lo que necesitas en la sección Contactos; el equipo podrá informarte sobre el proceso."
+  },
+  {
+    "keywords": "software a medida personalizado",
+    "answer": "Podemos revisar un sistema a medida para tu negocio según tus funcionalidades y presupuesto."
+  },
+  {
+    "keywords": "pagina tienda ecommerce comercio electronico",
+    "answer": "Consulta al equipo de desarrollo web acerca de una tienda en línea y sus requisitos."
+  },
+  {
+    "keywords": "dominio hosting alojamiento",
+    "answer": "Puedes preguntar por el alcance de dominio y alojamiento dentro de tu proyecto web."
+  },
+  {
+    "keywords": "seo buscadores google posicionamiento",
+    "answer": "En una consulta de diseño web, especifica si necesitas también optimización para buscadores."
+  },
+  {
+    "keywords": "sitio celular responsive movil",
+    "answer": "Puedes solicitar un sitio web adaptable a computadoras, tabletas y celulares."
+  },
+  {
+    "keywords": "urgencia emergencia soporte inmediato",
+    "answer": "Si necesitas asistencia urgente, llama al número de contacto para consultar disponibilidad inmediata."
+  },
+  {
+    "keywords": "no se mi problema necesito ayuda",
+    "answer": "Cuéntame qué equipo, software o servicio presenta el problema y te orientaré sobre el siguiente paso."
+  },
+  {
+    "keywords": "gracias muchas gracias",
+    "answer": "Con gusto. Si necesitas información adicional, puedes seguir preguntando."
+  },
+  {
+    "keywords": "adios hasta luego chau bye",
+    "answer": "Gracias por contactar a Calidad Competitiva. ¡Que tengas un excelente día!"
+  },
+  {
+    "keywords": "instalacion windows",
+    "answer": "Podemos orientarte sobre instalación o recuperación de sistemas; consulta el alcance de soporte."
+  },
+  {
+    "keywords": "actualizacion windows",
+    "answer": "Antes de actualizar, crea una copia de seguridad y comprueba la compatibilidad del equipo."
+  },
+  {
+    "keywords": "antivirus",
+    "answer": "Mantén el sistema y tu solución de seguridad al día. Podemos revisar una incidencia si la tienes."
+  },
+  {
+    "keywords": "formateo",
+    "answer": "Antes de formatear, respalda tus archivos y asegúrate de tener instaladores y licencias."
+  },
+  {
+    "keywords": "disco duro ssd",
+    "answer": "Si buscas mejorar la velocidad, consulta la compatibilidad de un SSD con tu equipo."
+  },
+  {
+    "keywords": "ram memoria",
+    "answer": "Para ampliar memoria RAM, identifica el modelo y las especificaciones compatibles."
+  },
+  {
+    "keywords": "tarjeta grafica gpu",
+    "answer": "Antes de adquirir una GPU, revisa fuente de alimentación, espacio y compatibilidad."
+  },
+  {
+    "keywords": "fuente poder psu",
+    "answer": "Una fuente de poder debe ser compatible con la placa y los requerimientos del hardware."
+  },
+  {
+    "keywords": "placa madre motherboard",
+    "answer": "Verifica zócalo y compatibilidad de procesador, memoria y conectores."
+  },
+  {
+    "keywords": "temperatura cpu caliente",
+    "answer": "La ventilación y limpieza ayudan. Apaga el equipo si se sobrecalienta de forma anormal."
+  },
+  {
+    "keywords": "ventilador cooler ruido",
+    "answer": "Revisa suciedad y desgaste del ventilador; evita forzarlo si hace ruidos extraños."
+  },
+  {
+    "keywords": "cable hdmi",
+    "answer": "Consulta disponibilidad de accesorios y cables directamente con la empresa."
+  },
+  {
+    "keywords": "usb no reconoce",
+    "answer": "Prueba otro puerto o dispositivo y revisa el administrador de dispositivos."
+  },
+  {
+    "keywords": "bluetooth problemas",
+    "answer": "Verifica que esté activado, empareja de nuevo y consulta compatibilidad de controladores."
+  },
+  {
+    "keywords": "wifi sin internet",
+    "answer": "Reinicia el router de forma segura, verifica la señal y consulta al proveedor si hay corte."
+  },
+  {
+    "keywords": "router configuracion",
+    "answer": "Para una configuración de red segura, solicita orientación técnica."
+  },
+  {
+    "keywords": "seguridad red firewall",
+    "answer": "Segmentación, actualizaciones y contraseñas sólidas ayudan a proteger una red."
+  },
+  {
+    "keywords": "vpn empresa",
+    "answer": "Si necesitas acceso remoto seguro, consulta un diseño de conectividad empresarial."
+  },
+  {
+    "keywords": "servidor hosting",
+    "answer": "Describe la capacidad, disponibilidad y seguridad que necesita tu servicio."
+  },
+  {
+    "keywords": "nube cloud",
+    "answer": "Para soluciones en la nube, plantea tus requisitos y presupuesto al equipo."
+  },
+  {
+    "keywords": "base de datos mysql",
+    "answer": "Consulta si tu proyecto requiere diseño, migración u optimización de bases de datos."
+  },
+  {
+    "keywords": "postgresql",
+    "answer": "Puedes incluir PostgreSQL entre las tecnologías a evaluar al cotizar tu sistema."
+  },
+  {
+    "keywords": "integracion api",
+    "answer": "Describe qué plataformas deben comunicarse y cuál es el resultado esperado."
+  },
+  {
+    "keywords": "aplicacion movil",
+    "answer": "Comunica plataformas objetivo y funcionalidades para evaluar el alcance."
+  },
+  {
+    "keywords": "aplicacion escritorio",
+    "answer": "Un sistema de escritorio requiere revisar plataforma, datos y mantenimiento."
+  },
+  {
+    "keywords": "php",
+    "answer": "Puedes solicitar una evaluación para una web o sistema desarrollado con PHP."
+  },
+  {
+    "keywords": "javascript",
+    "answer": "Cuéntanos los requisitos funcionales para evaluar herramientas web adecuadas."
+  },
+  {
+    "keywords": "python",
+    "answer": "Consulta si Python es conveniente para tu necesidad de automatización."
+  },
+  {
+    "keywords": "react",
+    "answer": "La selección de tecnologías depende del proyecto; incluye tus requisitos en la consulta."
+  },
+  {
+    "keywords": "wordpress",
+    "answer": "Puedes solicitar una propuesta de diseño o implementación de página web."
+  },
+  {
+    "keywords": "landing page",
+    "answer": "Cuéntanos el objetivo, contenido y público de tu página de aterrizaje."
+  },
+  {
+    "keywords": "formulario web",
+    "answer": "Especifica qué datos debe recopilar tu formulario y dónde se almacenarán."
+  },
+  {
+    "keywords": "correo corporativo",
+    "answer": "Consulta las alternativas de correo para tu dominio y sus requisitos."
+  },
+  {
+    "keywords": "ssl https certificado",
+    "answer": "Para proteger formularios y comunicaciones web, suele recomendarse HTTPS."
+  },
+  {
+    "keywords": "accesibilidad web",
+    "answer": "Puedes solicitar que la página sea accesible y fácil de usar en distintos dispositivos."
+  },
+  {
+    "keywords": "responsive tablet",
+    "answer": "Podemos considerar diseños adaptables durante la planificación web."
+  },
+  {
+    "keywords": "mantenimiento web",
+    "answer": "Pregunta por el alcance de actualizaciones, respaldo y mantenimiento."
+  },
+  {
+    "keywords": "sistema inventario",
+    "answer": "Describe productos, almacenes, movimientos y reportes que necesitas."
+  },
+  {
+    "keywords": "sistema ventas",
+    "answer": "Especifica facturación, inventario, clientes e informes requeridos."
+  },
+  {
+    "keywords": "sistema reservas",
+    "answer": "Indica las reglas de horarios, pagos y confirmaciones necesarias."
+  },
+  {
+    "keywords": "sistema asistencia",
+    "answer": "Podemos evaluar un registro de asistencia según tus flujos y usuarios."
+  },
+  {
+    "keywords": "reportes automatizados",
+    "answer": "Indica origen de datos, frecuencia y destinatarios para analizar la automatización."
+  },
+  {
+    "keywords": "dashboard tablero",
+    "answer": "Describe los indicadores y fuentes de datos que deseas visualizar."
+  },
+  {
+    "keywords": "excel macros",
+    "answer": "Se pueden evaluar automatizaciones repetitivas según el archivo y proceso."
+  },
+  {
+    "keywords": "migracion datos",
+    "answer": "Antes de migrar, define el origen, destino y plan de respaldo y validación."
+  },
+  {
+    "keywords": "auditoria tecnologia",
+    "answer": "Una evaluación tecnológica requiere delimitar sistemas, riesgos y objetivos."
+  },
+  {
+    "keywords": "soporte remoto",
+    "answer": "Consulta directamente si hay disponibilidad de asistencia remota."
+  },
+  {
+    "keywords": "soporte presencial",
+    "answer": "La modalidad de visita depende de la ubicación y agenda del equipo."
+  },
+  {
+    "keywords": "mantenimiento preventivo",
+    "answer": "La limpieza, revisión de almacenamiento y actualizaciones pueden evitar fallos."
+  },
+  {
+    "keywords": "mantenimiento correctivo",
+    "answer": "Para una reparación es necesario realizar un diagnóstico del problema."
+  },
+  {
+    "keywords": "diagnostico laptop",
+    "answer": "Describe marca, modelo y síntomas para orientar la revisión."
+  },
+  {
+    "keywords": "pantalla rota",
+    "answer": "Evita ejercer presión sobre la pantalla y consulta opciones de reparación."
+  },
+  {
+    "keywords": "bateria laptop",
+    "answer": "Consulta la compatibilidad y estado de la batería antes de cambiarla."
+  },
+  {
+    "keywords": "cargador no funciona",
+    "answer": "Revisa cable y toma eléctrica; evita usar adaptadores inadecuados."
+  },
+  {
+    "keywords": "archivos borrados",
+    "answer": "Deja de escribir sobre la unidad y solicita asistencia de recuperación de datos."
+  },
+  {
+    "keywords": "disco fallando",
+    "answer": "Haz una copia de seguridad inmediata si es posible y solicita diagnóstico."
+  },
+  {
+    "keywords": "phishing estafa correo",
+    "answer": "No abras enlaces sospechosos ni compartas claves o códigos; comprueba el remitente."
+  },
+  {
+    "keywords": "proteccion privacidad",
+    "answer": "Minimiza datos compartidos y activa autenticación multifactor en tus cuentas."
+  },
+  {
+    "keywords": "contrasena segura",
+    "answer": "Usa contraseñas únicas y largas, idealmente gestionadas con un administrador seguro."
+  },
+  {
+    "keywords": "autenticacion dos factores",
+    "answer": "Activa verificación en dos pasos cuando esté disponible."
+  },
+  {
+    "keywords": "camaras seguridad",
+    "answer": "Pregunta si tu proyecto incluye integración de dispositivos o sistemas de vigilancia."
+  },
+  {
+    "keywords": "cableado estructurado",
+    "answer": "Indica número de puntos de red, plano e instalaciones para cotizar."
+  },
+  {
+    "keywords": "switch red",
+    "answer": "La cantidad de puertos y velocidad depende de la topología de tu red."
+  },
+  {
+    "keywords": "servidor nas",
+    "answer": "Un almacenamiento compartido necesita revisión de seguridad y copias de respaldo."
+  },
+  {
+    "keywords": "office word excel",
+    "answer": "Cuéntanos el problema específico con tus herramientas ofimáticas."
+  },
+  {
+    "keywords": "licencia software",
+    "answer": "Usa licencias legítimas y confirma compatibilidad antes de instalar."
+  },
+  {
+    "keywords": "taller capacitacion",
+    "answer": "Puedes consultar directamente sobre orientación o capacitación tecnológica."
+  },
+  {
+    "keywords": "boletin novedades",
+    "answer": "Para novedades y anuncios de la empresa consulta sus canales oficiales."
+  },
+  {
+    "keywords": "alianzas colaboracion",
+    "answer": "Las propuestas de colaboración pueden enviarse al correo oficial."
+  },
+  {
+    "keywords": "punto de venta pos",
+    "answer": "Indica necesidades de inventario, cobro y hardware para evaluar un sistema."
+  },
+  {
+    "keywords": "crm clientes",
+    "answer": "Un CRM se diseña según gestión de contactos, tareas y procesos de ventas."
+  },
+  {
+    "keywords": "erp empresas",
+    "answer": "Para un ERP se evalúan procesos, módulos, integración y escalabilidad."
+  },
+  {
+    "keywords": "inteligencia artificial ia",
+    "answer": "Puedes proponer automatizaciones inteligentes; el equipo evaluará viabilidad y necesidades."
+  },
+  {
+    "keywords": "chatbot asistente",
+    "answer": "Este asistente responde preguntas frecuentes; para cotizaciones precisas contacta al equipo."
+  },
+  {
+    "keywords": "metodologia proyecto",
+    "answer": "Definir objetivos, entregables y validaciones ayuda a asegurar un proyecto ordenado."
+  },
+  {
+    "keywords": "contrato servicio",
+    "answer": "Consulta condiciones de contratación directamente con la empresa."
+  },
+  {
+    "keywords": "estado pedido",
+    "answer": "Para el estado de un pedido se requiere confirmación directa con la empresa."
+  },
+  {
+    "keywords": "seguimiento proyecto",
+    "answer": "Solicita el canal y la frecuencia de informes acordados con el equipo."
+  },
+  {
+    "keywords": "pagar adelantado",
+    "answer": "Confirma condiciones y datos de cobro por un canal oficial antes de realizar pagos."
+  },
+  {
+    "keywords": "precio programacion",
+    "answer": "El costo de desarrollo se cotiza según alcance, complejidad y plazo."
+  },
+  {
+    "keywords": "precio web",
+    "answer": "Una web se cotiza según secciones, funcionalidades, diseño y mantenimiento."
+  },
+  {
+    "keywords": "precio mantenimiento",
+    "answer": "El precio depende de síntomas, tiempo y piezas necesarias."
+  },
+  {
+    "keywords": "precio red",
+    "answer": "La inversión depende del tamaño de la instalación y equipamiento."
+  },
+  {
+    "keywords": "compra mayorista",
+    "answer": "Consulta directamente si hay precios por volumen o pedidos especiales."
+  },
+  {
+    "keywords": "stock disponible",
+    "answer": "El catálogo es informativo; pregunta por la disponibilidad antes de comprar."
+  },
+  {
+    "keywords": "productos originales",
+    "answer": "Solicita detalles de procedencia y garantía antes de confirmar una compra."
+  },
+  {
+    "keywords": "promociones ofertas",
+    "answer": "Pregunta por las ofertas vigentes directamente con el equipo."
+  },
+  {
+    "keywords": "reclamos quejas",
+    "answer": "Envía los detalles de tu reclamo al correo oficial para solicitar una respuesta."
+  },
+  {
+    "keywords": "sugerencia mejora",
+    "answer": "Puedes compartir tus sugerencias con el equipo mediante el correo de contacto."
+  },
+  {
+    "keywords": "idiomas ingles",
+    "answer": "La atención y los idiomas disponibles se pueden consultar con la empresa."
+  },
+  {
+    "keywords": "atencion feriados",
+    "answer": "Consulta los horarios especiales de feriados por teléfono."
+  },
+  {
+    "keywords": "cancelar pedido",
+    "answer": "Si deseas cancelar un pedido, contacta cuanto antes a la empresa."
+  },
+  {
+    "keywords": "cancelar cita",
+    "answer": "Ponte en contacto para coordinar una reprogramación o cancelación."
+  },
+  {
+    "keywords": "actualizar presupuesto",
+    "answer": "Envía nuevos requerimientos para revisar el presupuesto."
+  },
+  {
+    "keywords": "trabajo remoto",
+    "answer": "Consulta directamente las modalidades de contratación y colaboración disponibles."
+  }
+]

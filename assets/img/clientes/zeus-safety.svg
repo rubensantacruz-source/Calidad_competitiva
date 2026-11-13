@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 150" role="img" aria-label="Zeus Safety logo">
+  <defs>
+    <linearGradient id="bg-zeus" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0b233c"/>
+      <stop offset="100%" stop-color="#0d4f7d"/>
+    </linearGradient>
+    <linearGradient id="shine-zeus" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f9d976"/>
+      <stop offset="100%" stop-color="#f5b700"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="150" rx="18" fill="url(#bg-zeus)"/>
+  <circle cx="72" cy="75" r="42" fill="#fff" opacity="0.08"/>
+  <path d="M48 46h48l-18 18h-30l18 18H72l-24 24V46zm56 0h20l-10 58h-20l10-58z" fill="url(#shine-zeus)"/>
+  <text x="150" y="76" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">ZEUS</text>
+  <text x="150" y="108" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600" fill="#bfe0ff" letter-spacing="2">SAFETY</text>
+</svg>
